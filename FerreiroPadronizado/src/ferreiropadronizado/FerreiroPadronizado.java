@@ -16,7 +16,8 @@ public class FerreiroPadronizado {
     public static void main(String[] args) {
         
         System.out.println("Bem-vindo(a)");
-        
+        System.out.println("Loja do Ferreiro!!!");
+        System.out.println("===========================");
     }
     
 }
