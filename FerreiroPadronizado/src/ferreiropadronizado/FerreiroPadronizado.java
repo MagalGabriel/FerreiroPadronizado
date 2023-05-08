@@ -19,6 +19,7 @@ public class FerreiroPadronizado {
         System.out.println("Loja do Ferreiro!!!");
         System.out.println("============================");
         System.out.println("Selecione...");
+        System.out.println("Seu material de escolha");
     }
     
 }
