@@ -1,4 +1,6 @@
-package ferreiropadronizado.armaduras;
+package ferreiropadronizado.familiabronze;
+
+import ferreiropadronizado.familiaabstrata.Armadura;
 
 /**
  *
@@ -17,8 +19,5 @@ public class ArmaduraBronze implements Armadura{
         System.out.println("Armadura de bronze foi forjada!!");
     }
     
-    @Override
-    public boolean Defende(){
-        return true;
-    }
+    
 }

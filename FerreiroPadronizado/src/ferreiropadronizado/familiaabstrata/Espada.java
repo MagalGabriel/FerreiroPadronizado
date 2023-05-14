@@ -1,4 +1,4 @@
-package ferreiropadronizado.espadas;
+package ferreiropadronizado.familiaabstrata;
 
 /**
  *
@@ -7,8 +7,8 @@ package ferreiropadronizado.espadas;
 public interface Espada {
     //Atributos:
     
-    //tamanho em centimetros.
-    float tamanho = 0;
+ 
+    
     
     
     
@@ -16,7 +16,7 @@ public interface Espada {
     
     //Métodos:
     public void Finalizado();
-    public boolean Ataca();
+    
          
      
 }

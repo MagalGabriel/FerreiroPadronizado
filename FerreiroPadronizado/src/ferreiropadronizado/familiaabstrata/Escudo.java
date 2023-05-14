@@ -1,4 +1,4 @@
-package ferreiropadronizado.escudos;
+package ferreiropadronizado.familiaabstrata;
 
 /**
  *
@@ -12,7 +12,7 @@ public interface Escudo {
     
     //Métodos:
     public void Finalizado();
-    public boolean Defende();
+    
     
     
 }

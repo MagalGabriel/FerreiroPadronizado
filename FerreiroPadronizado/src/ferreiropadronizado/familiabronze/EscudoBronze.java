@@ -1,10 +1,12 @@
-package ferreiropadronizado.escudos;
+package ferreiropadronizado.familiabronze;
+
+import ferreiropadronizado.familiaabstrata.Escudo;
 
 /**
  *
  * @author dti
  */
-public class EscudoAco implements Escudo{
+public class EscudoBronze implements Escudo{
 //Atributos:
     
     
@@ -14,12 +16,9 @@ public class EscudoAco implements Escudo{
     
    @Override
     public void Finalizado(){
-        System.out.println("Escudo de aço foi forjado!!");
+        System.out.println("Escudo de bronze foi forjado!!");
     }
     
-    @Override
-    public boolean Defende(){
-        return true;
-    }
+    
         
 }

@@ -1,4 +1,4 @@
-package ferreiropadronizado.armaduras;
+package ferreiropadronizado.familiaabstrata;
 
 /**
  *
@@ -7,10 +7,11 @@ package ferreiropadronizado.armaduras;
 public interface Armadura {
     //Atributos:
     
+   
     
     //==========================================================================
     
     //Métodos:
     public void Finalizado();
-    public boolean Defende();
+    
 }

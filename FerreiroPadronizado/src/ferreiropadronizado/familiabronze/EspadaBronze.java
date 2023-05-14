@@ -1,10 +1,12 @@
-package ferreiropadronizado.espadas;
+package ferreiropadronizado.familiabronze;
+
+import ferreiropadronizado.familiaabstrata.Espada;
 
 /**
  *
  * @author Gabriel
  */
-public class EspadaFerro implements Espada{
+public class EspadaBronze implements Espada{
     //Atributos:
 
     
@@ -14,11 +16,8 @@ public class EspadaFerro implements Espada{
     
     @Override
     public void Finalizado(){
-        System.out.println("Espada de ferro foi forjada!!");
+        System.out.println("Espada de bronze foi forjada!!");
     }
     
-    @Override
-    public boolean Ataca(){
-        return true;
-    }
+    
 }
