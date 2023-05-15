@@ -3,19 +3,25 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/escudos/EscudoBronze.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/armaduras/ArmaduraAco.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/escudos/EscudoFerro.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/escudos/Escudo.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/escudos/EscudoAco.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/espadas/EspadaFerro.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/armaduras/ArmaduraFerro.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiabronze/EscudoBronze.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaferro/EscudoFerro.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaferro/ArmaduraFerro.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaabstrata/Escudo.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiabronze/EspadaBronze.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/Application.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaaco/ArmaduraAco.java</file>
             <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/FerreiroPadronizado.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/armaduras/ArmaduraBronze.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/armaduras/Armadura.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/espadas/EspadaBronze.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/espadas/Espada.java</file>
-            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/espadas/EspadaAco.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaferro/EspadaFerro.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/Run.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/forjas/ForjaBronze.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/forjas/ForjaAco.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaaco/EscudoAco.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/forjas/ForjaFerro.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaaco/EspadaAco.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaabstrata/Espada.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiaabstrata/Armadura.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/familiabronze/ArmaduraBronze.java</file>
+            <file>file:/C:/Users/CLIENTE/Documents/NetBeansProjects/FerreiroPadronizadoD/FerreiroPadronizado/src/ferreiropadronizado/forjas/ForjaAbstrata.java</file>
         </group>
     </open-files>
 </project-private>
