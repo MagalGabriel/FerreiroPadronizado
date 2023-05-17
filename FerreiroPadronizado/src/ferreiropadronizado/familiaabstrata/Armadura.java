@@ -5,8 +5,10 @@ package ferreiropadronizado.familiaabstrata;
  * @author Gabriel
  */
 public interface Armadura {
-    //Atributos:
-    
+   
+   /*
+    Essa é a interface que as classes do tipo Armadura implementarão
+    */ 
    
     
     //==========================================================================

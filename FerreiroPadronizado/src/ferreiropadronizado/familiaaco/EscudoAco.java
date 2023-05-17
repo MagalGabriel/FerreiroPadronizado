@@ -7,8 +7,11 @@ import ferreiropadronizado.familiaabstrata.Escudo;
  * @author dti
  */
 public class EscudoAco implements Escudo{
-//Atributos:
-    
+
+      /*
+    Cada classe de uma familia tem a mesma variação
+    No caso dessa classe ela é uma variação Aço de Escudo
+    */
     
     //==========================================================================
     

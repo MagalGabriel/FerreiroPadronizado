@@ -9,6 +9,15 @@ import ferreiropadronizado.forjas.ForjaAbstrata;
  *
  * @author Gabriel
  */
+
+    /*
+        A classe cliente tem acesso apenas às classses abstratas, no caso:
+        ForjaAbstrata, Espada, Escudo e Armadura.
+
+        Esta classe permite que passar para o cliente cada classe concreta,
+        sem infrigir as condições acima.
+    */
+
 public class Application {
 
     private Espada espada;

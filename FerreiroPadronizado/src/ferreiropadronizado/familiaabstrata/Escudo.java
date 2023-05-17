@@ -5,8 +5,10 @@ package ferreiropadronizado.familiaabstrata;
  * @author Gabriel
  */
 public interface Escudo {
-    //Atributos:
     
+    /*
+    Essa é a interface que as classes do tipo Escudo implementarão
+    */ 
     
     //==========================================================================
     

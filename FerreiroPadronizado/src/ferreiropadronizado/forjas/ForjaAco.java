@@ -11,6 +11,13 @@ import ferreiropadronizado.familiaaco.EspadaAco;
  *
  * @author Gabriel
  */
+
+    /*
+        Esta classe forja implementa a interface ForjaAbstrata 
+        Ela contêm os métodos para criar produtos de uma única
+        variedade, no caso "Aço"
+    */
+
 public class ForjaAco implements ForjaAbstrata {
 
     @Override

@@ -7,8 +7,11 @@ import ferreiropadronizado.familiaabstrata.Espada;
  * @author Gabriel
  */
 public class EspadaFerro implements Espada{
-    //Atributos:
-
+    
+    /*
+    Cada classe de uma familia tem a mesma variação
+    No caso dessa classe ela é uma variação Ferro de Espada
+    */
     
     //==========================================================================
     
