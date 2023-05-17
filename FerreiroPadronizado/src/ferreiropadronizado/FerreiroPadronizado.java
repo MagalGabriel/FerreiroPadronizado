@@ -8,25 +8,34 @@ import ferreiropadronizado.forjas.ForjaFerro;
 
 public class FerreiroPadronizado {
 
-
-public static void main(String[] args) {
-        Application app;
-        ForjaAbstrata factory;
-        String material = "Bronze";
+    /*
+        Esta classe executa o código, ela vai definir qual familia vai ser
+        instânciada, através de um certo contexto ou condições.
+    */
+    
+ private static Application configureApplication() {
+       
+         Application app;
+        ForjaAbstrata forja;
+        String material = "Ferro";
 
         if (material.contains("Ferro")) {
-            factory = new ForjaFerro();
+            forja = new ForjaFerro();
 
         } else if (material.contains("Aço")) {
-            factory = new ForjaAco();
+            forja = new ForjaAco();
             
         } else {
-            factory = new ForjaBronze();
+            forja = new ForjaBronze();
         }
+         app = new Application(forja);
+        return app;
+ }
+    
+        public static void main(String[] args) {
+       
         
-        app = new Application(factory);
-        
-        
+         Application app = configureApplication();
         
         app.Finalizado();
     }
